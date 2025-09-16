@@ -14,5 +14,13 @@
       "notified": {}
     }
   ],
-  "pendingTopups": []
+  "pendingTopups": [
+    {
+      "reference": "TOPUP-5879214876-1758059147300",
+      "uid": 5879214876,
+      "amount": 100,
+      "createdAt": "2025-09-16T21:45:47.694Z",
+      "status": "PENDING"
+    }
+  ]
 }
