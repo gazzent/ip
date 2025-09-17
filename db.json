@@ -6,7 +6,7 @@
       "name": "👑𝙺𝙸𝙽𝙶𝚂𝚃𝙾𝚁𝙴"
     },
     "5757073206": {
-      "balance": 302,
+      "balance": 484,
       "username": "Candravpnz2",
       "name": "KINGSTORE(2) (REALL)"
     }
@@ -90,7 +90,8 @@
       "uniqueAmount": 182,
       "suffix": 82,
       "createdAt": "2025-09-17T01:16:28.073Z",
-      "status": "PENDING"
+      "status": "PAID",
+      "paidAt": "2025-09-17T01:17:44.712Z"
     }
   ]
 }
