@@ -6,7 +6,7 @@
       "name": "👑𝙺𝙸𝙽𝙶𝚂𝚃𝙾𝚁𝙴"
     },
     "5757073206": {
-      "balance": 100484,
+      "balance": 90484,
       "username": "Candravpnz2",
       "name": "KINGSTORE(2) (REALL)"
     }
@@ -38,6 +38,15 @@
       "date": "2025-09-17T00:47:33.577Z",
       "durationDays": 30,
       "expiryISO": "2025-10-17T00:47:33.577Z"
+    },
+    {
+      "id": "rec_mfnbusg0_ijeb",
+      "username": "KINGVPNZET",
+      "ip": "104.22.25.171",
+      "ownerTelegramId": 5757073206,
+      "date": "2025-09-17T01:52:59.520Z",
+      "durationDays": 30,
+      "expiryISO": "2025-10-17T01:52:59.520Z"
     }
   ],
   "pendingTopups": [
