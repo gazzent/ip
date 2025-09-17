@@ -1,7 +1,7 @@
 {
   "users": {
     "5879214876": {
-      "balance": 20100,
+      "balance": 10100,
       "username": "Candravpnz",
       "name": "👑𝙺𝙸𝙽𝙶𝚂𝚃𝙾𝚁𝙴"
     },
@@ -27,6 +27,15 @@
       "ownerTelegramId": 5879214876,
       "durationDays": 60,
       "notified": {}
+    },
+    {
+      "id": "rec_mfn9in61_iun5",
+      "username": "Yukata",
+      "ip": "104.26.8.172",
+      "ownerTelegramId": 5879214876,
+      "date": "2025-09-17T00:47:33.577Z",
+      "durationDays": 30,
+      "expiryISO": "2025-10-17T00:47:33.577Z"
     }
   ],
   "pendingTopups": [
